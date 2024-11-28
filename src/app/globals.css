@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import "@prose-ui/next/prose-ui.css";
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
