@@ -1,13 +1,13 @@
 ## Prose UI Basic Starter
 
 
-This Next.js template demonstrates how to set up Prose UI with [next/mdx](https://nextjs.org/docs/pages/building-your-application/configuring/mdx).
+This Next.js template demonstrates how to set up [Prose UI](https://prose-ui.com) with [next/mdx](https://nextjs.org/docs/pages/building-your-application/configuring/mdx).
 
 For a full-featured Next.js documentation template with Prose UI, TailwindCss, and content collections, visit [github.com/vrepsys/prose-ui-docs-starter](https://github.com/vrepsys/prose-ui-docs-starter).
 
 ## Learn More
 
-To learn more about Next.js and Prose UI, take a look at the following resources:
+To learn more about [Next.js](https://nextjs.org) and [Prose UI](https://prose-ui.com), take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Prose UI Documentation](https://prose-ui.com/docs) - an interactive Next.js tutorial.
