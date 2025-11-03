@@ -1,8 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 @import "@prose-ui/next/prose-ui.css";
+@import "@prose-ui/next/katex.min.css";
 
 :root {
   --background: #ffffff;
